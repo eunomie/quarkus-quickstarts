@@ -1,0 +1,15 @@
+{
+  "name": "quarkus-quickstarts",
+  "engineVersion": "v0.16.2-010101000000-dev-a1dd0b0f2e0b",
+  "sdk": {
+    "source": "java"
+  },
+  "dependencies": [
+    {
+      "name": "java",
+      "source": "github.com/eunomie/java",
+      "pin": "7b60f77e16ff2cbe119164794f89f92bafa3bb12"
+    }
+  ],
+  "source": ".dagger"
+}
